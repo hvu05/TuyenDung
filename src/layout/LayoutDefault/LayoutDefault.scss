@@ -1,0 +1,44 @@
+.layout-default {
+    &__header {
+        background-color: #F1F1F1;
+        display: flex;
+        padding: 10px 10px;
+    }
+    &__logo {
+        padding-right: 20px;
+        font-size: 30px;
+        font-weight: bold;
+        color: #1D7DFA;
+        padding-left: 170px;
+    }
+    &__footer {
+        display: flex;
+        justify-content: center;
+        font-size: 10px;
+        font-weight: bold;
+        background-color: #333333;
+        padding: 7px 0px;
+        color: #F1F1F1;
+    }
+    &__main {
+        padding: 10px 10px;
+    }
+    &__logout{
+        display: flex;
+    }
+    &__login{
+        
+    }
+}
+.account{
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+.dropdown {
+    &-name{
+        font-weight: bold;
+        color: red;
+        font-size: 20px;
+    }
+}

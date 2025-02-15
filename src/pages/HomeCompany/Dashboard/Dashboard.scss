@@ -1,0 +1,60 @@
+.dashboard {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 1000px; // Tăng chiều rộng để chứa 3 ô
+    margin: 0 auto;
+
+    // Sử dụng flexbox để xếp 3 ô trên 1 hàng
+    display: flex;
+    gap: 20px; // Khoảng cách giữa các ô
+
+    &__section {
+        background: white;
+        padding: 16px;
+        border-radius: 8px;
+        box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05);
+        flex: 1; // Chia đều kích thước 3 ô
+        min-width: 200px; // Đảm bảo không bị quá nhỏ
+
+        &--company {
+            background: #e3f2fd; // Màu xanh nhạt cho phần thông tin công ty
+        }
+    }
+
+    &__title {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 8px;
+        color: #333;
+        text-align: center;
+    }
+
+    &__label {
+        font-size: 16px;
+        font-weight: 500;
+        color: #666;
+    }
+
+    &__count {
+        font-size: 20px;
+        font-weight: bold;
+        color: #007bff;
+        margin-left: 8px;
+    }
+
+    &__info {
+        margin-top: 8px;
+
+        &-item {
+            font-size: 16px;
+            padding: 4px 0;
+        }
+
+        &-label {
+            font-weight: bold;
+            color: #444;
+        }
+    }
+}

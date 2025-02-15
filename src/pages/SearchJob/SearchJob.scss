@@ -1,0 +1,42 @@
+.header{
+    font-size: 30px;
+    color: red;
+}
+.tag{
+    padding-bottom: 30px;
+}
+.button{
+    padding-top: 30px;
+}
+.block{
+    margin: 10px 300px;
+    padding: 20px 20px;
+    border: white solid 1px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0.2, 0.2, 0, 0.3 );
+}
+.buttonSubmit{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.divider-custom{
+    border-top: 0px solid black !important; /* Tăng độ dày & đổi màu */
+}
+@keyframes warning-blink {
+    0% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(1.05); }
+    100% { opacity: 1; transform: scale(1); }
+  }
+  
+.note{
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 8px;
+    border-radius: 5px;
+    display: inline-block;
+    display: inline-block;
+    animation: warning-blink 1.5s infinite ease-in-out;
+}

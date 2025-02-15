@@ -1,0 +1,760 @@
+{
+  "jobs": [
+    {
+      "idCompany": 1,
+      "name": "Frontend Dev (Angular/ReactJS)",
+      "tags": [
+        "ReactJS",
+        "Angular",
+        "TypeScript"
+      ],
+      "salary": "1000",
+      "description": "Chúng tôi đang tìm kiếm một lập trình viên Frontend có kinh nghiệm với ReactJS và Angular để tham gia vào nhóm phát triển sản phẩm của công ty. Công việc bao gồm xây dựng giao diện web hiệu suất cao, tối ưu trải nghiệm người dùng và đảm bảo tương thích trên nhiều trình duyệt. Bạn sẽ làm việc cùng các designer, backend developer để triển khai các tính năng mới. Yêu cầu có kinh nghiệm với TypeScript, CSS hiện đại, và các thư viện UI như Material-UI hoặc Bootstrap. Môi trường làm việc sáng tạo, nhiều cơ hội học hỏi và phát triển."
+    },
+    {
+      "idCompany": 2,
+      "name": "Fullstack Developer (NodeJS/ReactJS)",
+      "tags": [
+        "NodeJS",
+        "ReactJS",
+        "MongoDB"
+      ],
+      "salary": "1200",
+      "description": "Chúng tôi cần tuyển một lập trình viên Fullstack có kinh nghiệm làm việc với NodeJS và ReactJS. Công việc bao gồm phát triển ứng dụng web từ frontend đến backend, xây dựng API RESTful, thiết kế và tối ưu hóa database MongoDB. Ứng viên cần có kỹ năng làm việc với Redux, ExpressJS, và có kiến thức về bảo mật ứng dụng web. Đây là cơ hội để bạn phát triển sự nghiệp trong một môi trường startup năng động, khuyến khích sáng tạo và chủ động trong công việc."
+    },
+    {
+      "idCompany": 3,
+      "name": "Backend Developer (Python/Django)",
+      "tags": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "salary": "1100",
+      "description": "Chúng tôi tìm kiếm lập trình viên backend chuyên về Python/Django để phát triển hệ thống API cho nền tảng web. Bạn sẽ chịu trách nhiệm thiết kế kiến trúc hệ thống, tối ưu hiệu suất database PostgreSQL, xử lý luồng dữ liệu lớn và triển khai các tính năng backend quan trọng. Yêu cầu ứng viên có kinh nghiệm với RESTful API, caching (Redis, Memcached) và kiến thức về bảo mật backend. Môi trường làm việc chuyên nghiệp, cơ hội phát triển kỹ năng chuyên môn và tiếp cận công nghệ mới."
+    },
+    {
+      "idCompany": 4,
+      "name": "Mobile Developer (React Native)",
+      "tags": [
+        "React Native",
+        "Android",
+        "iOS"
+      ],
+      "salary": "1300",
+      "description": "Chúng tôi đang tìm kiếm một lập trình viên Mobile chuyên về React Native để phát triển ứng dụng di động đa nền tảng trên Android và iOS. Bạn sẽ làm việc với các công nghệ mới nhất để tối ưu hiệu suất ứng dụng, cải thiện giao diện người dùng và tích hợp với các dịch vụ backend. Yêu cầu ứng viên có kinh nghiệm với Redux, Firebase, và các thư viện native như React Navigation. Môi trường làm việc hiện đại, cơ hội phát triển nghề nghiệp lâu dài."
+    },
+    {
+      "idCompany": 5,
+      "name": "DevOps Engineer",
+      "tags": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "salary": "1400",
+      "description": "Chúng tôi đang tìm kiếm một kỹ sư DevOps có kinh nghiệm làm việc với Docker và Kubernetes để quản lý hệ thống server và tối ưu hóa quy trình CI/CD. Công việc bao gồm triển khai ứng dụng trên cloud (AWS, Google Cloud), giám sát hiệu suất hệ thống, đảm bảo tính bảo mật và khả năng mở rộng của hạ tầng công nghệ. Yêu cầu có kinh nghiệm với các công cụ tự động hóa như Terraform, Ansible và scripting bằng Bash hoặc Python. Đây là cơ hội làm việc trong môi trường chuyên nghiệp, nơi bạn có thể nâng cao kỹ năng kỹ thuật của mình."
+    },
+    {
+      "idCompany": 6,
+      "name": "Data Engineer",
+      "tags": [
+        "Big Data",
+        "Spark",
+        "Hadoop"
+      ],
+      "salary": "1500",
+      "description": "Chúng tôi tìm kiếm kỹ sư dữ liệu có kinh nghiệm xử lý Big Data để xây dựng hệ thống lưu trữ và phân tích dữ liệu hiệu quả. Bạn sẽ làm việc với các công nghệ như Spark, Hadoop, Kafka để xử lý dữ liệu lớn theo thời gian thực. Công việc yêu cầu kỹ năng lập trình với Python hoặc Scala, kiến thức về NoSQL databases và tối ưu hóa pipeline dữ liệu. Đây là cơ hội làm việc trong một dự án quan trọng, nơi bạn có thể đóng góp vào việc cải tiến hệ thống dữ liệu quy mô lớn."
+    },
+    {
+      "idCompany": 7,
+      "name": "UI/UX Designer",
+      "tags": [
+        "Figma",
+        "Sketch",
+        "Adobe XD"
+      ],
+      "salary": "900",
+      "description": "Chúng tôi đang tìm kiếm một UI/UX Designer có kinh nghiệm để tham gia thiết kế giao diện và trải nghiệm người dùng cho các sản phẩm phần mềm. Công việc bao gồm nghiên cứu hành vi người dùng, tạo wireframe, prototype và thiết kế giao diện tối ưu. Yêu cầu có kỹ năng làm việc với Figma, Sketch, Adobe XD, cùng với tư duy sáng tạo và khả năng làm việc nhóm. Đây là cơ hội để bạn phát triển kỹ năng thiết kế và làm việc trong môi trường công nghệ cao."
+    },
+    {
+      "idCompany": 8,
+      "name": "Cyber Security Engineer",
+      "tags": [
+        "Cyber Security",
+        "Penetration Testing",
+        "Firewall"
+      ],
+      "salary": "1600",
+      "description": "Chúng tôi cần tuyển một kỹ sư an ninh mạng để bảo vệ hệ thống khỏi các cuộc tấn công mạng. Công việc bao gồm kiểm tra bảo mật ứng dụng web, triển khai hệ thống firewall, phát hiện và xử lý các mối đe dọa an ninh. Yêu cầu có kinh nghiệm với penetration testing, encryption, và các tiêu chuẩn bảo mật như ISO 27001. Đây là cơ hội làm việc trong lĩnh vực an ninh mạng đầy thách thức và phát triển kỹ năng chuyên sâu."
+    },
+    {
+      "idCompany": 9,
+      "name": "Machine Learning Engineer",
+      "tags": [
+        "Machine Learning",
+        "TensorFlow",
+        "Deep Learning"
+      ],
+      "salary": "1700",
+      "description": "Chúng tôi đang tìm kiếm một kỹ sư Machine Learning để phát triển các mô hình trí tuệ nhân tạo. Công việc bao gồm thu thập và xử lý dữ liệu, xây dựng mô hình AI với TensorFlow/PyTorch, triển khai hệ thống AI vào sản phẩm thực tế. Yêu cầu có kinh nghiệm với thuật toán học sâu, xử lý ngôn ngữ tự nhiên (NLP) hoặc thị giác máy tính (Computer Vision). Đây là cơ hội tuyệt vời để bạn làm việc trong lĩnh vực AI tiên tiến và góp phần vào các dự án đột phá."
+    },
+    {
+      "idCompany": 10,
+      "name": "Game Developer",
+      "tags": [
+        "Unity",
+        "C#",
+        "Unreal Engine"
+      ],
+      "salary": "1300",
+      "description": "Chúng tôi đang tìm kiếm lập trình viên Game có kinh nghiệm với Unity và C# để phát triển các trò chơi sáng tạo. Công việc bao gồm lập trình gameplay, tối ưu hóa hiệu suất game, tích hợp AI vào trò chơi. Yêu cầu có kinh nghiệm với vật lý game, animation và multiplayer networking. Đây là cơ hội để bạn tham gia vào các dự án game thú vị và phát triển sự nghiệp trong ngành công nghiệp game."
+    },
+    {
+      "idCompany": 11,
+      "name": "Cloud Engineer",
+      "tags": [
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "salary": "1450",
+      "description": "Chúng tôi đang tìm kiếm một Cloud Engineer có kinh nghiệm triển khai và quản lý hệ thống cloud trên AWS, Azure hoặc Google Cloud. Công việc bao gồm thiết kế kiến trúc cloud, tối ưu hóa hiệu suất và bảo mật hệ thống. Yêu cầu có kỹ năng scripting (Python, Bash) và kinh nghiệm với các công cụ như Terraform, Ansible. Đây là cơ hội tuyệt vời để bạn phát triển sự nghiệp trong lĩnh vực điện toán đám mây."
+    },
+    {
+      "idCompany": 12,
+      "name": "Blockchain Developer",
+      "tags": [
+        "Blockchain",
+        "Ethereum",
+        "Smart Contracts"
+      ],
+      "salary": "1800",
+      "description": "Chúng tôi đang tìm kiếm một lập trình viên Blockchain để phát triển các ứng dụng phi tập trung (DApps). Công việc bao gồm viết smart contracts với Solidity, triển khai trên Ethereum hoặc Binance Smart Chain, và tối ưu hóa hệ thống blockchain. Yêu cầu có kinh nghiệm với Web3.js, IPFS, và kiến thức về bảo mật hợp đồng thông minh."
+    },
+    {
+      "idCompany": 13,
+      "name": "Embedded Software Engineer",
+      "tags": [
+        "C",
+        "C++",
+        "Embedded Systems"
+      ],
+      "salary": "1350",
+      "description": "Chúng tôi đang tìm kiếm một Embedded Software Engineer để phát triển phần mềm cho các hệ thống nhúng. Công việc bao gồm lập trình firmware, tối ưu hóa hiệu suất, và kiểm thử hệ thống. Yêu cầu có kinh nghiệm với vi điều khiển, giao thức truyền thông (UART, SPI, I2C) và phát triển hệ thống thời gian thực (RTOS)."
+    },
+    {
+      "idCompany": 14,
+      "name": "NLP Engineer",
+      "tags": [
+        "NLP",
+        "Python",
+        "Transformers"
+      ],
+      "salary": "1750",
+      "description": "Chúng tôi cần tuyển một NLP Engineer để phát triển các hệ thống xử lý ngôn ngữ tự nhiên. Công việc bao gồm xây dựng mô hình AI, tiền xử lý dữ liệu văn bản và tối ưu hóa thuật toán NLP. Yêu cầu có kinh nghiệm với TensorFlow, PyTorch, và các mô hình transformers như BERT, GPT."
+    },
+    {
+      "idCompany": 15,
+      "name": "Computer Vision Engineer",
+      "tags": [
+        "Computer Vision",
+        "OpenCV",
+        "Deep Learning"
+      ],
+      "salary": "1650",
+      "description": "Chúng tôi đang tìm kiếm một Computer Vision Engineer để phát triển các ứng dụng nhận diện hình ảnh. Công việc bao gồm xử lý dữ liệu ảnh, xây dựng mô hình AI và tối ưu hóa hiệu suất. Yêu cầu có kinh nghiệm với OpenCV, TensorFlow/PyTorch, và các thuật toán nhận diện đối tượng."
+    },
+    {
+      "idCompany": 16,
+      "name": "Site Reliability Engineer (SRE)",
+      "tags": [
+        "SRE",
+        "Kubernetes",
+        "Monitoring"
+      ],
+      "salary": "1550",
+      "description": "Chúng tôi cần tuyển một Site Reliability Engineer để giám sát và tối ưu hóa hệ thống server. Công việc bao gồm quản lý Kubernetes, thiết lập giám sát hệ thống với Prometheus, Grafana và xử lý các vấn đề liên quan đến hiệu suất, bảo mật. Yêu cầu có kinh nghiệm với CI/CD và scripting bằng Python hoặc Bash."
+    },
+    {
+      "idCompany": 17,
+      "name": "IoT Developer",
+      "tags": [
+        "IoT",
+        "MQTT",
+        "Arduino"
+      ],
+      "salary": "1400",
+      "description": "Chúng tôi đang tìm kiếm một IoT Developer để phát triển các hệ thống nhúng và kết nối thiết bị thông minh. Công việc bao gồm lập trình firmware cho vi điều khiển, thiết kế giao thức truyền dữ liệu và tích hợp hệ thống IoT. Yêu cầu có kinh nghiệm với MQTT, Node-RED và các nền tảng cloud IoT."
+    },
+    {
+      "idCompany": 18,
+      "name": "Rust Developer",
+      "tags": [
+        "Rust",
+        "Systems Programming",
+        "Concurrency"
+      ],
+      "salary": "1700",
+      "description": "Chúng tôi đang tìm kiếm một lập trình viên Rust để phát triển các ứng dụng hiệu suất cao. Công việc bao gồm lập trình hệ thống, tối ưu hóa bộ nhớ và xây dựng phần mềm bảo mật cao. Yêu cầu có kinh nghiệm với async programming, WebAssembly và networking."
+    },
+    {
+      "idCompany": 19,
+      "name": "Software Architect",
+      "tags": [
+        "Software Architecture",
+        "Microservices",
+        "Scalability"
+      ],
+      "salary": "2000",
+      "description": "Chúng tôi cần tuyển một Software Architect để thiết kế kiến trúc phần mềm cho hệ thống lớn. Công việc bao gồm lựa chọn công nghệ, tối ưu hóa hiệu suất và đảm bảo khả năng mở rộng của hệ thống. Yêu cầu có kinh nghiệm với microservices, event-driven architecture và cloud computing."
+    },
+    {
+      "idCompany": 20,
+      "name": "QA Automation Engineer",
+      "tags": [
+        "Automation Testing",
+        "Selenium",
+        "Cypress"
+      ],
+      "salary": "1300",
+      "description": "Chúng tôi đang tìm kiếm một QA Automation Engineer để phát triển và tối ưu hóa quy trình kiểm thử tự động. Công việc bao gồm viết test scripts, thực hiện kiểm thử hồi quy và đảm bảo chất lượng phần mềm. Yêu cầu có kinh nghiệm với Selenium, Cypress, và CI/CD."
+    }
+  ],
+  "cv": [
+    {
+      "id": 1,
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van A",
+      "phone": "0123456789",
+      "email": "levana@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Lê Văn A, một lập trình viên Full Stack với 3 năm kinh nghiệm trong việc phát triển ứng dụng web. Tôi có kỹ năng vững chắc về ReactJS, Node.js và cơ sở dữ liệu MySQL. Tôi đã tham gia nhiều dự án thương mại điện tử và quản lý doanh nghiệp.",
+      "linkProject": "https://github.com/levana",
+      "createAt": "29-04-2023 10:31:41",
+      "city": "Hà Nội",
+      "token": "abc0"
+    },
+    {
+      "id": 2,
+      "idCompany": 1,
+      "idJob": 4,
+      "name": "Le Van E",
+      "phone": "0123456789",
+      "email": "levane@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Lê Văn E, chuyên gia về bảo mật hệ thống và an toàn thông tin. Tôi có 5 năm kinh nghiệm trong việc bảo vệ hệ thống mạng doanh nghiệp và phòng chống tấn công mạng. Tôi sử dụng các công cụ như Wireshark, Kali Linux, và có chứng chỉ CEH.",
+      "linkProject": "https://levane-security.com",
+      "createAt": "29-04-2023 10:32:41",
+      "city": "Hà Nội",
+      "token": "abc1"
+    },
+    {
+      "id": 3,
+      "idCompany": 2,
+      "idJob": 5,
+      "name": "Nguyen Van B",
+      "phone": "0987654321",
+      "email": "nguyenb@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Nguyễn Văn B, một lập trình viên Backend chuyên về Python và Django. Tôi có kinh nghiệm triển khai hệ thống API, xử lý dữ liệu lớn và tối ưu hóa hiệu suất cho các ứng dụng tài chính và thương mại điện tử.",
+      "linkProject": "https://github.com/nguyenb",
+      "createAt": "01-05-2023 08:15:30",
+      "city": "TP Hồ Chí Minh",
+      "token": "abc2"
+    },
+    {
+      "id": 4,
+      "idCompany": 2,
+      "idJob": 6,
+      "name": "Tran Thi C",
+      "phone": "0345678901",
+      "email": "trantc@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Trần Thị C, chuyên gia về UI/UX Design. Tôi có hơn 4 năm kinh nghiệm thiết kế giao diện người dùng cho các sản phẩm web và mobile, với khả năng sử dụng thành thạo Figma, Adobe XD và Sketch. Tôi mong muốn đóng góp cho các dự án công nghệ sáng tạo.",
+      "linkProject": "https://linkedin.com/in/trantc",
+      "createAt": "15-06-2023 14:45:22",
+      "city": "Đà Nẵng",
+      "token": "abc3"
+    },
+    {
+      "id": 5,
+      "idCompany": 3,
+      "idJob": 7,
+      "name": "Pham Van D",
+      "phone": "0369852147",
+      "email": "phamvd@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Phạm Văn D, một kỹ sư phần mềm với kinh nghiệm về DevOps và quản lý hệ thống máy chủ. Tôi có kỹ năng triển khai và tối ưu CI/CD pipeline bằng Docker, Kubernetes và Jenkins.",
+      "linkProject": "https://portfolio.phamvd.com",
+      "createAt": "20-07-2023 12:20:10",
+      "city": "Hải Phòng",
+      "token": "abc4"
+    },
+    {
+      "id": 6,
+      "idCompany": 3,
+      "idJob": 8,
+      "name": "Hoang Thi F",
+      "phone": "0912345678",
+      "email": "hoangtf@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Hoàng Thị F, một chuyên gia về Data Science. Tôi có kiến thức sâu rộng về Machine Learning, Deep Learning và xử lý dữ liệu lớn. Tôi đã tham gia nhiều dự án về phân tích dữ liệu tài chính và trí tuệ nhân tạo.",
+      "linkProject": "https://hoangtf-ai.com",
+      "createAt": "25-08-2023 09:10:05",
+      "city": "Cần Thơ",
+      "token": "abc5"
+    },
+    {
+      "id": 7,
+      "idCompany": 4,
+      "idJob": 9,
+      "name": "Le Minh G",
+      "phone": "0976543210",
+      "email": "leminhg@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Lê Minh G, một lập trình viên Mobile với hơn 5 năm kinh nghiệm. Tôi có khả năng phát triển ứng dụng Android và iOS sử dụng React Native và Flutter. Tôi đã làm việc trên các dự án thương mại điện tử, ứng dụng sức khỏe và quản lý nhân sự.",
+      "linkProject": "https://github.com/leminhg",
+      "createAt": "30-09-2023 16:30:40",
+      "city": "Nha Trang",
+      "token": "abc6"
+    },
+    {
+      "id": 8,
+      "idCompany": 4,
+      "idJob": 10,
+      "name": "Nguyen Thi H",
+      "phone": "0923456789",
+      "email": "nguyenh@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Nguyễn Thị H, một chuyên gia về kiểm thử phần mềm (QA/QC). Tôi có kinh nghiệm về kiểm thử tự động với Selenium, JMeter và Postman. Tôi đã làm việc với các hệ thống phần mềm doanh nghiệp và ứng dụng thương mại điện tử.",
+      "linkProject": "https://nguyenh-qa.com",
+      "createAt": "10-10-2023 18:20:30",
+      "city": "Huế",
+      "token": "abc7"
+    },
+    {
+      "id": 9,
+      "idCompany": 5,
+      "idJob": 11,
+      "name": "Tran Van I",
+      "phone": "0965432109",
+      "email": "tranvi@gmail.com",
+      "statusRead": false,
+      "description": "Xin chào, tôi là Trần Văn I, một lập trình viên AI/ML với chuyên môn về Computer Vision và NLP. Tôi đã tham gia các dự án AI trong lĩnh vực nhận diện hình ảnh, chatbot và phân tích dữ liệu lớn.",
+      "linkProject": "https://portfolio.tranvi.com",
+      "createAt": "15-11-2023 20:15:55",
+      "city": "Bình Dương",
+      "token": "abc8"
+    },
+    {
+      "id": 10,
+      "idCompany": 5,
+      "idJob": 12,
+      "name": "Pham Thi J",
+      "phone": "0954321098",
+      "email": "phamj@gmail.com",
+      "statusRead": true,
+      "description": "Xin chào, tôi là Phạm Thị J, một chuyên gia về phân tích dữ liệu và Business Intelligence. Tôi có kinh nghiệm làm việc với SQL, Power BI, Tableau và Google Data Studio để phân tích và trực quan hóa dữ liệu giúp doanh nghiệp ra quyết định hiệu quả.",
+      "linkProject": "https://phamj-analytics.com",
+      "createAt": "25-12-2023 22:50:40",
+      "city": "Vũng Tàu",
+      "token": "abc9"
+    },
+    {
+      "id": "35b2",
+      "start": 0,
+      "length": 10,
+      "search": {
+        "value": ""
+      }
+    }
+  ],
+  "company": [
+    {
+      "companyName": "Ngân hàng Vietcombank",
+      "phone": "0935324245",
+      "email": "contact@vietcombank.com",
+      "password": "123456",
+      "token": "PwYhBKNOANJtKJ7WHZ",
+      "id": "1",
+      "quantityPeople": 8000,
+      "address": "198 Trần Quang Khải, Hà Nội",
+      "workingTime": "T2 - T7",
+      "website": "https://vietcombank.com.vn",
+      "image": "https://cdn.thuviennhadat.vn//upload/hinh-anh-bai-viet/DTMH/thang-2-2025/ngay-15/ngan-hang.jpg"
+    },
+    {
+      "companyName": "Tập đoàn Vingroup",
+      "phone": "0973455645",
+      "email": "contact@vingroup.net",
+      "password": "vin123",
+      "token": "JqHRJb29RHeyJCXTxj9",
+      "id": "2",
+      "quantityPeople": 50000,
+      "address": "7 Bằng Lăng, Vinhomes Riverside, Hà Nội",
+      "workingTime": "T2 - CN",
+      "website": "https://vingroup.net",
+      "image": "https://businesswiki.codx.vn/wp-content/uploads/2023/10/van-hoa-doanh-nghiep-cua-vingroup-1.png"
+    },
+    {
+      "companyName": "Công ty Cổ phần FPT",
+      "phone": "0912345678",
+      "email": "contact@fpt.com",
+      "password": "fptpass",
+      "token": "XYZ123ABC456",
+      "id": "3",
+      "quantityPeople": 30000,
+      "address": "10 Phạm Văn Bạch, Cầu Giấy, Hà Nội",
+      "workingTime": "T2 - T6",
+      "website": "https://fpt.com.vn",
+      "image": "https://jetking.fpt.edu.vn/wp-content/uploads/2021/08/vnp_toa_nha_fpt_2.jpg"
+    },
+    {
+      "companyName": "Ngân hàng Techcombank",
+      "phone": "0987654321",
+      "email": "contact@techcombank.com",
+      "password": "tcb987",
+      "token": "MNO987ZYX654",
+      "id": "4",
+      "quantityPeople": 11000,
+      "address": "191 Bà Triệu, Hà Nội",
+      "workingTime": "T2 - T7",
+      "website": "https://techcombank.com.vn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Techcombank_logo.svg"
+    },
+    {
+      "companyName": "Công ty Cổ phần Thế Giới Di Động",
+      "phone": "0909090909",
+      "email": "contact@thegioididong.com",
+      "password": "tgdd123",
+      "token": "UVWABC123XYZ",
+      "id": "5",
+      "quantityPeople": 60000,
+      "address": "128 Trần Quang Khải, TP.HCM",
+      "workingTime": "T2 - CN",
+      "website": "https://thegioididong.com",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUSExMWFhUXFxUXFxgYFx8YFxcaFxgYGBcWGBcYHSggHxolHRUYITEiJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lHyUtLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBEQACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwEEBQAGB//EAEoQAAIBAgQCBwQGCAUBBgcAAAECEQADBBIhMQVBBhMiUWFxkTKBodFCUpKxwfAUFRYjU2Ki4QczgsLx0iQ0Q2Oy4hdyc4OTo9P/xAAbAQACAwEBAQAAAAAAAAAAAAAAAQIDBAUGB//EADgRAAIBAgQCBwcEAwACAwAAAAABAgMRBBIhMUFRBRMUYZGh0RUiUnGBsfAyosHhI0LxM2IkktL/2gAMAwEAAhEDEQA/APZKa0GYnNQMMNQBIFICQtAiRNADAaTJI7NQMEPTFcs2LtAFtL3fUWh3CuPRYAc1FgAdqaQAFqlYiQGoAnNRYBZemASmaTAYrRUWNOwwGok0wqQxbICQe6pJkWijjMOpYMatpydrIrklc7E41U0nU7VKNNyFKSRnLxTTU61f1WuhX1vMPh2KDPETRODSuKE7uxsXbAOnhVEZWLmrmHewGUweda41LozOFmIu2KsUiDRWu26sTK2iqU1qxFdg8ophY3oFcSzOqcIoysLoIJUR2CVKQWGAUh2Jy0BYKgYLLQKwphTFY5HoBDlu0DsWFeRTENBoAB2oAWTTAAPQInPTAFqEAy2aLAETSsAWbSotAMR6TRJSDmkO4lsOLmkkRrpVkZZSFrnl+M8Ou22DlgwOxHLwIroUakJK1rGSrCSdxGGwhcTOnOpymokYwzGlgMHlYGdR3VVOd0WQhZnoLWomsb00NJ1zDA6mmptCaTMfGW8p8K1wlczzVmZdzWtCKGKNsVO5CxwfwFIdzcwHCrjGbhgRsNwa506sEvdN8YSe5bu8G7nPvFQVbuJOkJGHKmCQe6i6lqCTQOIuAedChcHKwKXZqLhYakMzUrDudmpWC5IpWC4q4ai0MUTTEEr0Bcel2gZZR6YAO9AgM1AEUAcKYgppgShpgMUUgJY0AQGoA4tSsA3BX9xzokrDTKfFXHVnQFiYXwnnVtFe8V1H7pXweCypvrVk53kRhCyH4fDEGZmlKaZJRsK6RcbXB4c3IBcyLa/WaJk/yjc+nOqHuTSMroL0tvYy5dt3ltgKisMisDq0GczHvFOUVHYSZucWtHSKvoyK6qMm9aA2rTGRnlEWuEZqk6iRFQbOays0lJg4o9hm0rkHVKGPxDLqBpVkEnuVzbRQXFMQWYezpEd/OatypaIrT4le7dkkH++tWRWhFspC0xPY2Hwq1tW1KbO+hq2DmG9Zp6M0J3QaofOo3RIb+jtzEUroLCLikb0rXC4o1FoYIFILDUNAx6vQADNQFyA9BG5z3QBJpjudafQHwFAXGA0aiGxUhHK1AzmagBbNQBGemgJstBpvURGJt5h9x7qnB2YpK6Btlh2QNBFSdnqR1WhZOIRVzEwB+QB48qqn7qbZOOrsj5Z0mx9y/euNc0ygqqSIRYkCRoSZknx8qop1YzWaOxdOm4PKy7/hO8Yq4O+yfg6fOtE9ilH1G7ZzVCMrDauVb2DFWKoRcEJu2tIFTjLXUTWmgkYbyqechkNgNXPNgLCncLE5B3UXFYo/qdCSdjO/h3eVX9cyrqkaOGwoQQKqlJtk4xsKbAW5nIAfSn1krWDIg7FlRsKi2Ow4rO9ICtisKCNKkmRaM+5gG3qd0yNiv1ZFGULklaMoXIFRsO5DGgRBpAKxZ7DeXxnT40MEHhrkqCIiOU5fME6kdx50IGPQ0xD1agZJNFw0AY0w0Fk0CFm+ubJmGaJyyJjvjeKaAZaeCKluBcxjoi53ZVQRJJgCSB95ioXsOxY6hWUFTIYSCOYOoINCkxuJ4npFisuLSy5y2k7RPeWUgMfAGPjUMVKU6bSLMOlGabPNcUv20F5nIN26dF/ho2iAjkxUDTl9/Noxm1GO0U735u9/A21pRTb4vQuf4Y4NxdbEkRbCNbBO7MSpOXwGXU9+nfHbV5LQ5cmkz6UcYKj1bDMiHxYNLI0PMhDt3f39PnUgFZ6lZkbo0A1YzSR1goC47OIphcm3cEUCGqTQMi4DFIRQxuGErd7Wa3qAGYAjXMCgOVjBMSN4ouFi5OkzTCwq/bDKUJYA6SrFGHkykEUxC8Ef3agySBlJJkkr2W1Op1B1oBicVhAwYGYIIMEgx4EEEe6pqRWV+GYPshdezK6mScpgEk8yIPvp5rINy+MEINRzDylC3w0i65A9pVO51ILAmNpjL6U7xCzsGbMbgipOKsRuYfSWx2Qy6MQVBGnMHXXaA3rVTJoucPnqrc75FB8wAD8akiDIx9sNbIYSOz94oYLcvKaAuFNAFXh1pVQ5VADM7aCJzMTPpFCGx7UCKaJNx2jYKnjoC3+8elA76FlanEiOvNOReRcE+SdufVVH+qhq5JGwr1UTR4Lp0y28R1zRm6pcq7iQWGdvAd3Mis9Zyk8kduL7i+mklmf0R4rAcMu4t89wMbKtLNrqxZTlLDnqZOwgd4FWSSpwTWya+6IReaVuLv8AY+mJZCIqqAqgABRoABsBXYWXZHMd92DmP5+VDsCbDsoZmahIlEuWTvVMkXRdxmTwqNyVi6ADWQ0Cri0ARQFjiI2p3EWLLmgAy550mCJkd49RSuiVmVcNcVZt5h2IjUeyfZ9IK/6aLoLMYbq/WHqKeZcwyPkVVvqrXBmH0XGo+lKkD3pP+uhTjfcjKMrbE4bHq2hgeZqcsseKK4qT4PwG2rircYZhDANvzXstr5ZPQ1XnjzLVTlyLRur9YeopZo8x5JcijevxdWGEZHG/OUP4GpqUeLRDLLkxg7epYeoqXWRWlxZJPgY/STDnqwVIJVpEaz2HEEe+oynG241CV9izYsQoBYE66z3maM8eaE6cuTEYtOyfd94pdZDmvESpTvs/AaT40dbT+JeKDqp/C/AjrAKXXUviXiHU1PhfgxeDcBEBIkKs+goVel8S8UN0KvwvwY43F7x61HtNH414ofZ6vwvwYjDOsMSQCWbn3HKD9lRS7XQ+NeKJdmrfC/AfnT649afbKHxrxDstb4X4EW7ydYSXEBAAZ5sSWH9CUdtw9/1rxH2Wtb9LLd7HqbZCXkR/osRmA93w99VyxmH+NeJKOGrfC/A8x0z4ZaxWRzeJcAKQkBIUk7EEzLd+01TWx1FRvGSbLqeFqOWsWaV9rVuwbVkqAohQPAz7zzJ8alicbh5UXFTRGjhayqJuLAs2WNsNabtAAMreyWgTt7J8V012NdLC16dWN4O5ixFKcHaaCto2gY67kgQJ8u6t2yMVrsf1dQuWWLllIqiTuXxjZDoNRJDLJkVmaLUwmFANgGiwrkg0DuMFAzP6Tf5SD+f7lPzrm9JytSS7/wCGbcCv8jfcfKB0rflbt+jUl0VT5vyG8fPkhg6U3P4dv0en7Kpc35egdvnyRB6U3P4dv0el7Jpc35ege0KnJEjpFiiJWwCO8W7hHwqt4DCrRz80TWLrvaPkxTdLcQDBVAe4q4PxqxdF0WrqT8vQi8dUWjS8w16YXvqW/RqPZVLm/L0I9vnyQa9MLv1Lfo9Hsmlzfl6D9oVOSGL0vufw0/q/Gj2TS5vy9A9oT5Ik9Lbn8NPjS9kUub8vQftGpyQQ6W3eSW/6vwo9kUeb8vQPaNTkhi9LLv1Lfo1P2TR5vy9Be0KnJHftfe+rb/qo9k0eb8vQftGpyQJ6XXvqW/RqPZNHm/L0F7RqckC/Sy/9W16NR7Joc35ege0KnJfn1A/ay/3W/T5tT9k0Ob8f6F7Qq9359Tj0sxH/AJfp/en7Kod/j/QvaFXu8BTdKcT/ACfZp+ysP3+IvaFXuBPSbE/WX7K/On7Kw/J+Idvrdwo9JcV9dfsp86fsrD8n4i7fW7vAhukeJ+uPsL86fsrDcn4h2+tzXgAekmK+uPsLR7Kw3LzYdvrc/IFekmJkS+kiewNp15US6Mw6TtHzYRx1a6u/I+p8HAKOP5h939qr6BlaE13/AMf0PpaN5R+RL2SOdelU0zhODQywYGtQmrlkHYsJcqlouTGi9UbDuQl0gVTYmNS7NFgJuHSiwAKaLAWLTVFoaZkdLrkW18Bcb0Ark9JO+SPNnSwOilLuPjFgCOXx+ddc54xdSAupMAAEyT3DXxqMpJK7Gk27I9nwjgiWgGcBrnM7hfBQfvrzWL6QnVbUXaP3O3h8JGmrvVjuL8R6lA2XMSY3gDnqaqweF7TNxvayLMTX6mKdricWli8iC6INwAp9cExsRtv5VOl19Gc3S1Ud+RGp1VSMVPRy25njeIYFrLm2x21B7WoOx0P/ABBr0OHrxr01NHGrUXSnlYlPP4P+FXlQa+f/AKvxoAkz+Z/GgBiz+Z/CgBoPj8TQB0ePdzP40gBk/kt+FMCT+fb+VAAMPH4j/cKAI94+0tAjifH4z91ACyfv/PKmAJPn6D8RTEC359n5UwAcfmF+VACLvu+HzoGfaOAXJDHvCH764vQjtKpH5fydHpRaQf5wNO4s16SLsjiS3Fso76kQFtcUU8rYnKwHXH6tPq0LrGXCawG0dbNAHXHEUAIFzWgB/W86APPdM8R+5c91p/6gRXHx3vYqlH83/o6WE0oTl+bHyU3Bt8q6xgNboogbESdcisw89F/3Vzelajhh7Li7G7AQUqvyR6zG4pky5bZcsY00AHeTBrz1ClGpfPJRSXj3HXqTcLZY3uZj27gvLaN12klycvZjkp7Wg7J+0K6MatJ0ZVVBKyy76357GRwn1ig5N8dtPkaODweUDOescEkOw1E8hJMD51gr4vO/cWWPJbP5mqlQyr3nd82YvTJNbRA1hx7hlPLzPrXT6Fm3nj8jD0lH9LK+GwVlcN1r+08qpykkHXshZ/lPaq2riMRPF9XDaOr13Xf6FEKVNUc0t2aDcGtnq7MhXCZ2yrJOwktO0zoTJ91Y10hWhKda14t2Wui+SLnhoSShs7FHBcALKruTDGFyISYnR2k6DnW6v0ooTcIJXS1u7fRc2UU8HdXk/A5OBfvbqNcAS0AWeDsVzAZZ3j7qn7STowmo6y0S7yPZffcW9FxLVrgKzZK3c4uNIBQgFAC5JBbyEeNQl0jLLNONnFc+O3IksKrxad7/AGOxXD0Je7cYW7WfIuRD2ivZJVZ0Eg667GnSxU4xjTgs0mru72+oToxbcm7LbQdh+Bi3iGBKsqWzcJdcw1JEFcw10YzPKq6mPdTDppNNu2j+zHDDqNS26SuVcPwpWVGuOEa6TkVVPPWdDoNvKRVk8fKEpQpxzKC95tkY4eMkpSdr7GlewqdddZVRUs2xM2wwZiCx05mIH/NY416joxTbbnLTW1lt9y904qbslaK5FPD8GQNaW67da/byKOwAO0Vb0I5VfU6QqZZunH3Y6Xb15XKoYaN1mer1sDxLAozXbznq7SEIAgALEQGgRA7RI93hSw+KqQhClH3py11ey/4OrShKTm9IrTQS/AB11tFdilxWfX2lCgRp4llHrU49KT6qcpRWaLS7nf8A4ReEjnik9GJxHCLfUtctO7EOEE6BmLhYH2t/DapU+kavXRhUikmr/JWuEsLDI5RfGwxeAWjc6nrW6wLnaB2Y0GnjJG/Kq5dLVVDrVBZb2WutySwUM2Ry1MC8RLAGQCQDO4BgGu3TbcE3u0jnzSUmkV7h8fuqZE+x9C2zIp+tZtt8B864fRnuYqrH83Opj/eoQl+bG/fsDSK9FCRxJxuVnwzb1apordNlXEOqb7k6Aan3U3USWoKm29EApucrZjl7O3LdgfhVDxKLlh2YnSDpC9iCuRhOxJBI0mORI7vLxrJKo0W5Tc4XijdtJdylc6gwdCPCrItNXI6ouFD3VLQNSDbNAamXxa6rqbQuqtyCQp3I747vGoS5AmeQ4g11MDcF6c8wNZgFwBBHLUn31xJ3l0hFPh6NnWpaYNvn62PFZie/1/tXbOcaXRzFC3fUts0oSeU7H1ArB0lRdWg0t1qa8FUUKqvx0PXYlblxmtEFbcDtgjMToYHx5cq87SlSowjVved/08Ld516inUk4WtHnxCxGBDWuqzMAABIIzHL4nviq6eLca/W2V+/bUnOipU+ru/5C4Z1nVgXFCkaADXQAASZOtLGOl1jdJ3XPvHQz5PfVmeT6T43rb0KMy2xlBykgkntEQfAD/TXoeicM6VHNLeWv04HIx9ZTqWWyBXizZLdtraRbKkEqfomdidJ5nzqzsCVWdRTfvXuvmU9p9xRaWgZ45cz3XyrmuKFmD2QBHZ18Z86h7Lp5IQu7Rd/m+8fbJZnK2+g5eNEW0Q21YoIUnMI0jVQddhRLo1dZKcZtZtWtP5GsU8qTSdi5wV3yOSbOW4dRceDppMDl4abVmx/VqcEs147WV/xluHzOLbtZ82MxvHgl4GyFZUTIp1ygkiSsaRoo9xpYXo+VSg+tunJ37/r5hWxKjP3dbKxWw/G2RFtm2lwKcylpkHeTG+pPrW6rgVKo5xk43VnbkURxFo5WrgHjVwrdkKWuiGbXQRGVRG0E+tHYKalBraPDm+bDtMrSvxDtdIHUWx1VtjbEAmZiI07joPSqp9GRk5tTaUt0Sji7JJpaCb/F3KXEyr+8Ysx1nUjQeGgFXRwMFUhO791WS/khLENxkrbj/wBpLshjbtZguWchk8982g8PGqH0TTs45pWbvbgWdsldOyuVcLxm4AbbLbdWbNDggZiZkktETrrVtbAwclUjJxaVtORCniJJZWk7viXbHEbuY3jdsZmt6AyMo0IUANoZPwrJUoUVHqlGVlLe277y+M53ztrVeAl7zhLWHS7YgOWDAnQoc0uSYiW98AVNKnKc60oy2ta3PTQi8yjGCa3NHE8SW0ty472TcK5VFoyxMECTMxJHlG5rBTw0qs404KWVO7zaJGiVVQTlK1+48W13xPx+deqOOIa55/n30XA+udBrv7q0f/JA9IH4Vw8G7dIVFzv90dPE64OD+R6PE4wIMxE6gAef5J91ehcrI46VyuvGQTAQ6GDrt56aVX1vcT6sCxiFzkLbEk6nNJOkgkxt3ctKpd2yzgWGxhB9gfbHypDsfN+lfFhduGVPZzDU6+JGUxGnw8KzzqtuyBJHYDps9jstLg7ZtAPIiiFaa31HJRubfCOnOe6FuAZXgLl5HxJPORrt4VbCu27MjKKSNm/0lTMEW25zqSGMADssSCJmRlMjcb7RNvWdxBIxOK4P9Jt9fbfMBJgAhgRoBk5HfeT+CnHOroWzMLjruMCouHtllVp1Mgk6mdT2d64lB5ukZX4L+EjrzWXBRXP1ueQHn8P/AHV3TmEg+Xp/egDf4V0oa2Mt0Z1GgI0YD3nWuNi+iIVXnpuz5cP6OlQx7gss9fuabdMcPG1ye7KJ/wDVFc32NiL208TZ7Qo24+BicV6VPdBS2DbQ7mZcjukez7vWulhOiadJ5qjzPy/sx1+kJTWWGi8zJAUKAAvoPwrsHOCtn8fzqKYjsx/P/FADWc6TP59KQHAju+4/eaAOV/zp86AGXLknn6L86AODeJ9F+dAAl/5j6L86AOa8O/4L+DUwBF8a6/Bf+qgAGxA7z8P+qgQD3PE/D50AB1vj8R86YHG6e/7vnQAu6/j934GmIWCPE+7+9K4z6r0Fuf8AZ7PKAw7iIZuXpXDpe70p8/8A8nTqPNgPl6mvf4qGa6gBDWZadYJCqwOnLtHziu85J3XI48d0M6P8MZQ1xzq4BHa2Gpk9xII/tVaRc2eZxvFRhcYzdZnRWy5M5mYOhMGYzHfbKe+sSco1G73QpTL9rpwkdqzBkgw+mhP8tXKv3Ecx8yxN8mTlc5dxOka66cqrUeBY0aXDsLaxCpbj965ILdYew09ksjAkgjfLpoTyNTUUK4/9lcX1i24DFg8ZToGQaqSQAGgqQDuDpsafVDcjeS3fsC5bvYQEG0rE2/oIQUmdRm07WXbQ86lZxWxFNXKFvhFy3czW1vWfaAfPEn2irQDy0jQGCYIGkHNruJqnKWxp3ns3rapiCGaAxhXAzAQSMixzO2lcSdHFRxEqtJpX+Xoegp4fNQjGcXpb83K/6nwP8NvsX/lUs3SXxLy9CPY6PwP8+p36mwJ+g3pfH4VJT6S+JeXoReEoL/R+fqR+q8B3H1vVHrOkviXl6D7FR+B+fqLbhWAH0T63qfWdI2/Uv2+g+wUvgfn6hHhOAG6n1vUut6R+Jft9A7DR+B+fqW16M4WAeraDqDNzX1qHasfeykv2+hT1OEvaz8w16L4Y7WXI/wDuGovGY9aOUf2+hF08Gt0/M4dFMN/Buf8A7KTxuO+OP7Q6vBflwv2Vw38F/S58qO246+so/tDq8F3+ZP7MYb+C/wBl/lUu2434o/tDqsH+XJ/ZXD/wX+y/yprGY3nH9odVg/y5DdF8NztXPR/lR23Gc4/t9RdVg/y5w6LYb+Fc/ro7djOcfGPqHVYPn9zj0Vw38O56vR27Gc4+MfUOqwfP7kHophz/AOHd9Xo7fjOcf2+odThOf3IPROx/Du+r0vaGN/8AXxj6h1OD5/cUeidj6l31ah9IY3hl8Y+odRg+f3BbotY+rc+0aXtHHf8Ar+31H1GD5/cAdFsP3XPtH5U30jjr7R8vUXUYPn9yP2Ww52D/AGv7U/aOO5R8vUfZ8H8R37JYc8n+3/aj2ljeUfL1F2fB/F5iV4FhEIZXMiYy3ASNNfZ1/wCan23HS0lFW+nqRlRwaX6vMtRYshJVzEtOYo0SNQ2+8QN/hUqEqzq55WtyXrwM1dYdUssL3M7BYp0vXbgJIuArlILDKTLEsYEmDJj763LEuF2vM5t0aJ6SYs3GhsyqsxlypqdCCNJEHQkbep2l7uW5ZwuYF3CMmZrwkkkhjG+pid5Jjb51XGrGctGK9w7N28ohckan2FO5k6nXc1apSXEjdGNi7xYsgE9ry01jQbaCfCN6tjHiaZOxPC8UbNxLlu5lafa0jQwQZiRr391O7uV6WPsWA4iL4tXwhUKygtPZYXAyCDsYZp8J03Nak76kB/G8evV3LYchoXYwRJEQe+PvolJLQWtrnmL1rrY6y9cIAMDPGkgxpy0GnhVLtsySlI89w1y8AawRImCFJ9tTyKzr4RWK13Y90/ch9P42+p6DDYS2WyjF2m8NMwHeVzfDfwFXKlG/6kc+WKna7pS/PoaSY1mYg37YZWJ9nSezMRcEz1pExrDc6uU78V+fUxSoKKuoSs1z+fd3XE4q2bq5Hv2wAwkqojSVUntxJ32ntDlSksys2vz6k6UuplnhCT04+fDgY+N4cqKD1qPMaAiDIJMGdxHdEMO+KzypqKvc6dHFOpJrI1bmFwPgQuXMzKOrXfcZjySNo74/GsWJrdVHTd/lynHYzq45YvVnosY9q4wBZ1ZcwEKY3E8v5fSs+ErVsOm4xTvbicWjiHTut7i8Paw5GQSxGZpKlRuGOoAESAfcD3VHEVq059ZLS9kRqVXWnd9y/gpXVzKrW1UtmgBQ0uqAEghj2RHI6mAdOUo3Ts3p9NGzVVwsIXvfRX4b8lzKWA47ZcEG2oPZAAYhe0TJ1JHZHIRVs6U4vf7GSEYSna9lr+fUu3cQsa2CdCMvbBZcrnOIb/L1P2u+KptL4vJd3mdBdHQf+/8AW2nzLZvwoIs5u04JGdgQD7QMkwSdOWh7qdGip1HGTtouSMWIpKk7J8E+9X4Mv2bn7vPlK9kkrEHTlHu51jqRtUcU76lUY3aXMz7t5CSSl3XcAkaHPpE9n/L5d4q6KnFJaeH5zNfYZfEvy3qdfddTFzf2usIUjMbYMg84J8teYpxzLTTw+oRwV3rL12uSt239W9IKjdp1Z9RB1HYJ0nQgeFJ5+7w+QngpJ7rx+XqLsXLZcD97MrEtOsiVI1BiRPnRJTSbsuPAJ4GUY3v/AM/savGUIByPqFMZRPaKDWNvbG+/KZE0vDSvbT8/4SfR9RO11+X9PoT+uk10Y7aqMwM5YiDv2vUEa8zs0uAez6nd+f8AA24muXMQfZuNBIjsZZGjEE9sc++o9nle3y8yCwVRyt3pceN/Qn9Zp2tGlVZiAs+yqsYO2zD8YoeHmPsVTS1tXbxdv4A/XVsHUEAAE7EiWKjWf5Sez3Gpdlkgng5U4ZpyS/5cx+NcRGdbqDfQBwOREkRtz9+x79mHg1Fxb8Dn1FqYLspkPOg7IGrnLqAO4aDTwrbFPgV2V/eZXuYqB/3dlM+0QI1MyJ8hr8hTcLv9RXl11Klu+xVkDsqHUydT4mBvGgHlVipxunbUktBId3KgXTmZoUElmPuJ0NTso62CS5ItngF7mQPeKq7TSKzJu4WVB6yBufqggx2Y3EHkOR8q2IsvcFsODEa6DXRSO/sjSN/XyqQtWejbj2e2LOY27XYzKHLM2QKF1Oi+wDoNdanvoGqNh+lVoIodTkI0ORiG1nQqIJkE/wDNGaLeW5HLUtexR4n0sQqBh1th53e2+WB5qddtx30NoIU3f3jzF7GYg3AxNozOqxMwdNIPw5VinQpwi2r+LOtTxNWTUb6HX+JXhAJLbzpMRHw3qmFOMo3u/EunWlGVkdb4zc79PPu8KsVCO134kJYmpvoPHG7nMn1Jp9lXxPxK+2zGXOLsPpfFhVTw8lvf6MksdPmWsHx6/BCXHAEaB2A132bzrPWoxTWr15ltKSq5pSS0IHSm9/Ffzzv37+1+YqawtPimvD0M3XL4UWP2kv79a55+08+G5p08DGW/8egnXXwrwFt0kukGbr7aGWmSIG7dx5d9WxwlNaL+PQhKqmv0opriQwnMTAA5+u++kz4VY6duJRszb/XWJUDt3NpjMw8tM3hWKWGhmt6GqNWEovRXQNzpBiBoXffTtnn4Z9PfV0cDTlt/HoQ7RD4UNs8cxDKGF2B3l4/3U/ZsPy3oHaI/Ch68ZxO4vKR/9QH/AH0vZsPyw+0Q+ARd6SYhSA1yCddyRHfIeKi+joLd/YlGtCW0ULv9KrqmOsM+R+dHs6PP7DlUpp2ynJ0ovtsx98iY3j1qutgo04ZidGVOpPLlIudKcQszcj/TPKfuqS6OjJJkJVacZNZdu8UemV8f+L/SvyofRkeYuup/D5kftpe/i/0p92WaPZq5j6+n8Pmc3TS9t1pHmqD71o9mLn+eIdfS+HzKd/pq7iC7PGuiJpt/KKkujcr0f39ROrRlvHzG4XjZxAOYsNWUkwCxIQ9qAdNRUKlF0bXfkSjCNRNwi2/mQcIAQ7mOYnnBj8QY8+6raNXrbqPAy4mhKmlfiVbl5hcz3JyzIAmI755nf4byTWp0mlpuUxhZFiziw7lVtSO5m5x2ozA8wRp498VU4tK7ZW092Ka0M27JcULCAbExqD4Tprrr3VZF3Vt0ShJ7GVe4g5OtxuQ9rkAAOXcBUlRhyHmY/HrbuIFLlX29ns6e1A89dTOp8KnFyUttCC0M/F4C4JCjs6CRGpHInuq1NMtTuiunDbgPsz6RpFSbGeyxfD7uMw6i0nJBr2VQjKWnSOR0+dcOnOOHxEpVXbVu/Pe3edGpadJKH/BvD/8ADRSB12J17rajff2m337qJ9Mtv/HDTm/T+ylYbmwU6HIl66LTE9W8ZWIJHZOXYAxlfc91WVcfCVFZrrMr7abkqVNwnmWtjP4rgmRm5FZVyDJSToGA2G3a210NWUJQdKN9b6rv+Xpv3BWk5TutALPAMRl6wr1dsbNcIXfQQp7RJ5QNafaaGbKm2+S1/oi1O12HZ6M38pJ7JEZcysFMmJYxKx4j0q3tdOTSi0/k1fTglx8SHVPibjdGgqw1idhm6zRuXLbUDSuaukZTl7s/pY6Cw9GybdjMweCVBicogLcyxMxlgESd9TVtWbnUo34ojStGNS239FXo9wS1dN1rslUUNoT3a+zqdjW6u5pwp0t5OxhU6aU5zWi1vyRudIOHW7WHLgRqFGp5z3+VQj2ilXVKryvw/gfW0q0M8dVseLxInbTQfAD5Vrst7FbyuPeaOGwQtoWuHVwAE0BA5tMzJnblFVTk29Nim99Czh76qrtr7XtE7nQFe8R6e6qJRzT+hbFe53/cG5fgG57U7hhEE6hgRGnuqyM7aFcItvKkY120AxGpjuMqfIn3Vdn01LYwv+fnACNfZaT6fDypp6XFl4cSwMXoCbfsjLEyDvMgnx2p2jIj+l3ZYxHFDcEZOzIkTPn91KKjEJZpasvcIxBu3wpEKqvlUTH0YmecAa1nxz/wS+n3LsEv80TO4jbYPckMB1lwKTzAYgRPKKvoSvSh8kVV4/5ZfNmfkJkyeevu/PpU20uBXlPQ4bo9buW0uEvLKJhgADAJgET3b1WuuvpHTht6gquGWkp2fyfoZ3FuHC3eChhAVDqBM5jOgAG1OMpqPvxsxKdOT/xu65iBg4UgNMgS0RGo+XxoU23sacscneej6O8I7MAlySSfDRIHwrn49SnZRXM24KahdyZb6SW8i2QRGtyfD2ah0RpOonvp/JHpBJqMl3mTx0zaXKWAWM+8AMRB89IrrN3ehzVJbFbpMFUJcRtW7XZP/wAoTL3LAPpWHAylJyhJbf3e/easTCCSkuJU4Ti5DksCwQ5VI5icoB5kkKI+euupT4IzRSs7GdiLpdi2gnkNAKtjCysQseyxnAg8EGBroNtTNJ0pLYgZyIEBtmZa4yqe4rBBaRtHdVkYrVsvpxUpxjzNLhaKrzcUXECHQHL2tPAab1RiITnC1GVnztc1VKVKnq9S7f4+VBK22RdLQRH+ufakxqJ8q5z6MqP9UlJ3vdq3qRWIguFvkLTiNxiBnuINdWYkCBporzroNCIqfY5xu3BP5f2HWweifiBYxUEh8Thnuk5szW2zRAA1LSQIGs1jrU5R/wBJqPJNW9C6m82iabKmJ6RdWAFa2t2CZW1kBM6AMSxAOkmefjFXU8LLNm1ceTd/LRfQjOcUrPcqftdcMdbZFwgyC1xWg/WUNb0Ou4NXPAy/1nb5K30dmQ66HGPmWsT0kvXB/wB5sqrsMqPaB2+g31jJWs9PBwou6hK64p+a5Fjln/2VuRb4fxPFhGudYLwZuz1WQREhvbI0ERvVdTD0ZPLlytc7/wAXJxva97/IHD47Ph8RcyFRmYnbVgJaACQNQOca1Y6bjiKcW76d+3AnF/4Z6f8AR/RIK6XwFcZltgwBPaz7CdtPjWmvXdCrSqpJ5W2ZYYeOIhOm3ZNFjpheUYcK6kA3F7JiPZYkiT3+6o9qni8R1jSTStp8y3skcNQUYtNXPEugklFnKRrlEg7DY99a3a+r8zNm02Rv8Ox1l7Je/buNcWJgdkETlKjNAJ+lI92tP/HFWMro123KFsvHuNK7wy0cLbvgjMxUtng21mUMhYMg85JEHviuRHFVHiZ0mtEna2/M1xp5YLU89guG3MRnKKCE5RuSYC+ZHM91dOyjo3qShLV2KNxSpZWXKykhgRqCDBnyNSy97DMvhGZT1T3QoypGYzETtpVTlaag5O72+gPLu4ml0TwFm9iFRwCFAfURMKCAQ26nXSqekq1WhQcoPXYhCMZS2N3pJ0ZsynVWwhZ/3hBOULBaAp2IMQBA19M3Q+Kq1nJVp+7FXvx5fW460VC2VXbdkU+G8HFq+HUHKQV1bMQY0gjQjw3HOuniMmIw83R3tfK/4fHv/kKGejWj1q47+q4dx5nj6N1905jpcOmY6CdIHv5UsHK9KC7kGKVqsvmKsWGCr1isJcakkAqRH5860veyKE1Y9HwN7ZFsajMqLOXNqQCBoQfojWdz7xfKhTlBOTey2tuYVKs6jUMtrve+1zM6U4AWb+XNINpG0AUauTIGwpVIqNkvP5l1DM7t2+nyRljKIK5hHPSdNoII8aqRee4/w7XtXByBU+5h/as1X9WneXwfua9wz/EG6tvq3ZA8OYUnSSuh90Vz8FGUsRVinbY04tf4IGGMQbvD79x4zK2fuHZVoAmeWld2hTjTTiuRyZLa3My+lPCijsLckBpULrIP1QNTBNEo5ZfMshLPH5FPhXRrF3kLpbgAlYc5DIAPstrGorPWxdKjLLN+RdToTmrxKuO4fibLm2yiViY1GoB5HxqdOvTnHNF6ClQmnZo+rXSoGsQD6+MDv7t9vKtN0UKLeyPFcTi5eQAggtdeRrAOQTUYapmqlG1VJ8h2Bxi2rbl9hlCgDl3zsBqNSedWPWyDE5brKudwb2ODC22gU3iWgzGS2xgxznLpUGZkmyxwfFC8+RRBMgSRJIGbsgH7x31XUmlG5bGnZ6jeLdGLltGu2VFxlE3MwgxEZlII1AAgGdue1YsPiIYmT0ukXNOnH3XqY3DOj1/F3SltScujOR2FaOZiB7IEb6c62qk7LKtCh1E3q9eJS4lgLll2t3gyuukHSfEd6nvocWnZiUk9j0fQvhbXALikAqtyMy51hyFzRI1U29B41RWmod5bSTld7F3/ABC6O2rK2cQigO7MLkAENIzgwBpGUDTl61GjUlJNEqiSZn4K6gwhsfTYv2SN5UwInUxBjes08PV7UqttLeZphUh1Dp31MDFWlYE5XyBTk0mSsDtSZyidSJ5V0qcJHPnNLcG2oJOUaCNvz31VZsszFyxeQkidHZVzA6KcwM6HXT0qupTbab4Amj0WKv2wogaICRGhMQJGv0j3/WNVxV0u47dOpThSsmrNJcOPPvRt2EzYBVMdkCCQCJVswyjmkaSd64Lahj3ro9NO9WOc0rWR5bgnSRcELhNoszMikB8pgC5Mdk6AkfCvRulmsZ1KyZl8SxyXLr3QIDhCVzTlJVZltJIMnbwpODslyJWXMbh8VZFvq2z/ALyM8RCxMRprM0nRUpKfFCvbQ2/8M2U3XgMP3ep5DVCwPM6nTbnXL6dv1Mfn/DJUNza6V4xLdy0rAk9ptBtOm5OugI8J5Vi6KoucJtPTRGnXrIqKuzPw3F0a4tvtB2EzlIkAEwOWUhe779N9TDNU5T4WZdKcoVY05qz+jPKcct/9pvEbZgT4aLr5a/Gulgn/APHh8jn4pf5pfM2MEma2CCJAK6iRrEkDv7j8KtnRUnf5eRmzWVjEtY02iB/DbKCDqCp0PxrbDEWSTinYyzw7bbUmrkcQxpvXCzEk9Xlme46DlGnIVVWnm4WLqNPIt73EKxNv17/wPhVJbc9b0QuPD5WKsQmus6ZvrDxHpWDGSlBXXNG7CQjPRrgwend0th1lizJdTMSIPaVo5e73Vk6LcniHKX+y+zRfjUlSyrgyp0awwvYLF2iJ7DFZ2DAEqdO4gV6DichmtiOHJbS3fW3lYtbeQxJcZBcBMns9rONPHvpVdlJCpbuLNYNnIYWSQyoT2iCJzQddwR6VxekdZKTdtOR2MLJ004x1Kd7hysSxs3ATGm/KN5rLCbSspItlNyd2h/ErtmzabC4duse4vVI73BnPtNdd3kGdYC6bGQwAFeilJHPpUl+p7L8seftYK3+kOqarasIslYks7OWgTqQAe/YcoqFRTcEqb4/IUKl6rnIr8b4ZqYui0oQq0KWVg2klUG4gidYyjvp0rwj771I1IyrSWVd31PMcVdBdPVFlQCFM6kzqdAsTJgeWtWbq6KXdO0kaXQK8wxUEDI9u6HaDmUBCxKldQ8qO/c1XXTlFqK1eiJwnwex6ZcbetLN18yPdugzOiMcqKTAEKFkkzuajQoQoQso2fG3OwSlmZt9GOI4XB22V7yguzXBmkSBlUQ2xgIdRvOk61soVYtFNSLuK6Q4C3irf6YGLhbUhVAPWANmUAFCdZj/UdNa52OxkY1Y01x2f1ad/kW0YtRbPLcVdmuWb6Jlt2UUuEEZYzXIZWg9olp02Y++zRKzer2Jxve62QjhmKuYxQL+LRALmVQw2GWSQiKAQSY75mpqlGP6SHWXfvajbYwRTsdm/GQXHLJbOVyS4XUDOIPKPAnWxq8e8Lq7LtzhOEREDXEuXCVYm1njq3GUKx0zKCM06c4qMpzhTbh+r8uhxhTnO0lp38yjhuF4cIzXMTaK9mUT94WE6iFMpyGbcTRBaXehCTK+C4ehLFb1pUF64UW5dVGyhmyyGM7EelOS10FGTRq3MDaa20EagDrMwy9nUksTAHedBXaqYWjHDNw1bXz2PPQxdeWLjGeiTem2+i/o9ZxW0i4Rk0VerCGG0EiBBb6ImZr5jQzzxafG/H+T170geI6W9H2zzbg9hCRJLFiqmQFHOdPOvZLQw3uDwzgDtbQlEfMoMy2vPWGHfStclew650PxDEFEQDuzH8Sfvo2Fqz0vQbgz4Y3s6gZiuUjXbl4jyrz/Tycow+pow+7F9McLculBbE5cxJjQkxDDw30nlUuhKfuTb42RKrVlTnGUd1qZWD4agZHDsXVtVJ2GVkgCPHnyGm01pqzms9PLpZmh4l4hwqylry2KPFOBYi5iHe2sqY5GNhvHnWzAP/wCPD84mPGf+aX5wL3D+GX0QK1pwdPonuA/Ctt0Y2mYmK4Je7TdWSSSYKxM1FPUm9iq5WzlFyw+Ygn/MCjcj2cjco51J2YRuhF7iqCALMbE5nBnTwtrEgjvqORDuzc6OdIbNshTaZSSFldV9oESCfE1ixeGlUi8r5eRswtdQazd+3ebHTcThD4Pb+Jj8a43RTy4q3czoY/Wi38jJ6D40W1uq0kOIgeWtenucOxu4TFrewmDt54ZksIdCdSoXWPGiTurBFNSzFq9hBYKh2PgVyj2CMsgnXflrpXOxsJOKypPfc6XR9F1ZSS+ZTuZCSRir4Hdlcx7xpWNQq2/8Kf58jZLDNOzmv/svUDiX6Qt17lq1cu3HVrYzWmFuzbkQIKiSTJIELrGoJB7Oa7ucqU1kUEv+mJbtYuyGCglmguepvM7chqFiddh30373HzK1KxfWzijkUqTmBzsIGrbAaz2dJjnNVvTRGqlKm4ty34FMdD7txy5E+ZJ20knX76ln0Mrjd3HjQ/o5tAi32c2isdJ1GziIiRJGsxEzjfe9yMrPS1iLjBsNiUcELbjq3dcrKSAwt5Z0Ox5AydhVidyPA85b4a1xXImLNo3HzADdoVY8QZ8cpo1RGUtj1nRHiV2xh0HVk2x2iSRm7RJlVmSvPbWdJmuN0nhqFaazSea1ly327vE00pSS2VvM2ekV21ew7pKjMjkPIBMqYMyJGorkYGdWlXV7u2jWpfJXi7cTzvQmxhmwoa7YLuXeGjlpH0hznlXq6jknZGSMU1qOscAtsTnZozST1ZzmNpJbTxiKjmZLKrGg/RS2T2CQhWIIMz3wrR67fcZnxI2XAceiOHCFbJYXDHaYsVPeInTT8KHN8QyjsJ0AsTNwlu4KWH4087FlNb9mLQRbasyooIAEyZMmWJ21q6WLqumqfAzRwVJVnWtqxXE+Dm4uS9i3a2WkqLYkmIGo5eEbiuXRwNCjPPCOptcm1Zin4bZuMM2bsKiK/VoSwXTWbZj0G9busaK8iOs9HbBMZp5kNatD3wbdCqvkGRD/ANm7A0lf/wANv8Ep9Y+QZCBwE29cPiFtNz/dCGHIECNvxrLiaNPEJRqRuSheOxlX+g3Wv1t/FF3kbJCwNlAJMD5mrcNGGHSjCOidyNWLqJ67oZiuhocR1wXXcT79I+811MVjaVWPuw1e5zcHgKtGV5SugbfQkAADGXAR855Ed9YOs7jpZXzDHQ9+WOf4/wDXR1ncGQa3RW9yx90bbZv/AOlHWLkGRmPxjoNibjhv0sXIBH71mBUHkDLaHWdqOsQsjMpv8N8Vr++sa/zt4QPZ20HoKedBlZ2O6C4tcpV7d0wcwD5SDyjNEzRnQZWPTotizZuo50cWyJfNBV1aYE8pqqcIucZrhfzVi2MpZXF8beTO4f0ea2Ia4QT32m7oiQTPwqTlchlK3DejN/IlyRIYZZQhl6pjBEjyI8x30N6lkJpQcWj33FLiXGXMZWANJBnKWMFdeR28Ky47O6V6e9y7AVJU6unFfm5jOMJO/qNf6kmsEXi7b28PU7sqdWTu6ab52L3EcJeJhHY88wWFnbRTr75512pKB5iOYPCHFglbhm1KmFQK5jkWznT3VG47Gv8ApsDs2bnhMfM0hnDHn+Dc/p+dIDAuWbga7Nq6VZmZSAhJVzLW2kyNS0Qe6rYVGv7K5QTMDFcIvsgHVOJZmyqgaNYUOSQCQoB0kCSNoo613JZFl3My5wm8TiW/RrkuMqqoCqsKCDlnUz3SN43pud7EcqLXD8PiAiEYa9mCADSB7KrJ1DR2Rp4VXKMWsr2vckr7m5huE2XtLbu4a9KgAPlOcREwZIExrUIxjFuUVvuS1atc1OF4G3bkLh7qIPZUDmdWYySSSfGpOV3cErI2F6uNrg/0E+72aLhYal1O4x4qw+GWKLisQcWI9lge4g6egpXGBbx4ntyPHKTp6TvRcGgv1jbn/MHmQR8YoDUBsbYY6vbPnH40BqR1+GPO1/SKNA1JtXsOCSrWgeZDKD5b0w15Dv0y1/Et/bHzo+oa8jkxlsgHOniMw+6aPqGvIk3l71+0PnR9QuCcQkgEjX899Id+4eVX6y0xX7jjaHeKVmO6EsE5kUrBcBsnePWmFxbXU7wfKDSuxnPA+jRqF0QSvP7qWo7oXcCRqAaNRXQm7hFO0jy/CaVmO6MvGCxYIuXs1xQNEAGYnT2YA07/AHVKNl+otpRqOX+Lfvtp8rlf/wCIGEXQYW0kfRZQGHgQVJn31PP3Gnq6j1dV3+b9Uem66rLHJzMJbtFgzBddRlHmO66llDMd1tGUMwQuU8oZiRdpZQzBC4KMoZiRdoyhmDF2jKGYnrBRlDMd1opZQzHdaKMoZgOsFGUeYg3BSyhcExGvxijKFziifVX0FGUMxHUp9VfQUZQzBdQn1V9BSyjuR1adw9P7UZQzAtYQ8h6CjKGY4WEGwAoyhmONoeFLKPMC1sUZQuAbA8KWUMwH6P3H7qMo8xBw3lSyhmAOE8TRlHmBOEPfSyhmO/RD9ajKx5gjhz9Y08rFc8lxq0rXLwftMpUKrDMDbYElwDz017h7qtjskQZl4zAQxCJ2QFAJZFJ7I7RVzmE7we+llRb2mo9z3LNVplJznb8aYBB/fQBINIAw1MDg1AEk0gODeelAE5/GgCRdoAkXKAJz0AdnPfQBOfxoAHrT50ARnNAE9ZQBIumgCetNIDusPOmBHWd1AHdaaAIa9QAPWUWHcFr3hSsAPXedFguQb2tFguT11FguSL9Kw7hdaPH3GPuoyhmC61e80ZQzGdxDhNm8QzTI2IMHy8qaVhNlNujNkmT1n2z8qYFpVpiDVvzrSGEr+VABT40ALurqp1GUyIYjXbXvGu1Frhc4X25D8+dOwhudj/zv8KADD0hhg+NOwgqLAGsD/miwEM9IBZY8t/OgAgW7h6zQAZJoGAwNAiAp/P40AcRFAHB9aADB8aVgJNMCDNICBTABjQMU59aBABqAILedAEzQMJGNIAudABTRcCA35FMCaAKI/D51IRxO3nSAldz5mgBg3/0/gaAOnX3fKmwDSogAeXl8qYDF5e/76GByHUe/7hSGTNMQSeyPd95pcRkjehiJG/u/A0hhRr+e6gAG3pgENh5UgJmmIlTQArE8j5UwJU0APt7UAHGlACFoAlxSARd5e77qBgN+JoA6dRQIHEHSmgK9hjA1O9Ngi+g+78DUBoh9x5UASu4oAgimB//Z"
+    },
+    {
+      "companyName": "Công ty Cổ phần VNG",
+      "phone": "0977777777",
+      "email": "contact@vng.com",
+      "password": "vngpass",
+      "token": "DEF789GHI012",
+      "id": "6",
+      "quantityPeople": 4000,
+      "address": "182 Lê Đại Hành, TP.HCM",
+      "workingTime": "T2 - T6",
+      "website": "https://vng.com.vn",
+      "image": "https://corp.vcdn.vn/products/upload/vng/source/News/cong-ty-vng-o-dau-3.jpg"
+    },
+    {
+      "companyName": "Công ty Cổ phần Vinamilk",
+      "phone": "0966666666",
+      "email": "contact@vinamilk.com",
+      "password": "vinamilk456",
+      "token": "LMN456XYZ789",
+      "id": "7",
+      "quantityPeople": 8000,
+      "address": "10 Tân Trào, Quận 7, TP.HCM",
+      "workingTime": "T2 - T7",
+      "website": "https://vinamilk.com.vn",
+      "image": "https://www.vinamilk.com.vn/static/uploads/editor/vinamilk-la-doanh-nghiep-sua-duy-nhat-tu-viet-nam-trong-top-500-fortune-khu-vuc-dong-nam-a-2024.jpg"
+    },
+    {
+      "companyName": "Công ty Cổ phần Masan",
+      "phone": "0955555555",
+      "email": "contact@masan.com",
+      "password": "masan789",
+      "token": "PQR789LMN456",
+      "id": "8",
+      "quantityPeople": 9000,
+      "address": "1 Điện Biên Phủ, Bình Thạnh, TP.HCM",
+      "workingTime": "T2 - T6",
+      "website": "https://masangroup.com",
+      "image": "https://media.kinhdoanhvaphattrien.vn/files/gidang50/2024/06/07/66626accc4dbb.png"
+    },
+    {
+      "companyName": "Tập đoàn Hòa Phát",
+      "phone": "0944444444",
+      "email": "contact@hoaphat.com",
+      "password": "hoaphatpass",
+      "token": "STU987PQR654",
+      "id": "9",
+      "quantityPeople": 22000,
+      "address": "66 Nguyễn Du, Hà Nội",
+      "workingTime": "T2 - CN",
+      "website": "https://hoaphat.com.vn",
+      "image": "https://dntt.mediacdn.vn/197608888129458176/2023/3/30/hoa-phat-1680162445214210697847.jpg"
+    },
+    {
+      "companyName": "Tập đoàn Sơn Kim",
+      "phone": "0933333333",
+      "email": "contact@sonkim.com",
+      "password": "sonkim123",
+      "token": "VWX123STU789",
+      "id": "10",
+      "quantityPeople": 3000,
+      "address": "39 Lê Duẩn, Quận 1, TP.HCM",
+      "workingTime": "T2 - T7",
+      "website": "https://sonkim.com",
+      "image": "https://toancanhbatdongsan.com.vn/uploads/images/2022/09/22/doanh-nhan-gia-toc-son-kim-1663815759.jpg"
+    },
+    {
+      "companyName": "Công ty tập đoàn Bảo Việt",
+      "phone": "0922222222",
+      "email": "contact@baoviet.com",
+      "password": "baoviet123",
+      "token": "XYZ321ABC987",
+      "id": "11",
+      "quantityPeople": 12000,
+      "address": "233 Đồng Khởi, Quận 1, TP.HCM",
+      "workingTime": "T2 - T6",
+      "website": "https://baoviet.com.vn",
+      "image": "https://baohiembaoviet.com/wp-content/uploads/2019/05/tap-doan-bao-viet.jpg"
+    },
+    {
+      "companyName": "Công ty Cổ phần Sabeco",
+      "phone": "0911111111",
+      "email": "contact@sabeco.com",
+      "password": "sabeco456",
+      "token": "DEF654GHI321",
+      "id": "12",
+      "quantityPeople": 5000,
+      "address": "187 Nguyễn Chí Thanh, Quận 5, TP.HCM",
+      "workingTime": "T2 - T7",
+      "website": "https://sabeco.com.vn",
+      "image": "https://finance.vietstock.vn/image/SAB"
+    },
+    {
+      "companyName": "Tập đoàn Trung Nguyên",
+      "phone": "0988888888",
+      "email": "contact@trungnguyen.com",
+      "password": "cafe789",
+      "token": "LMN123XYZ654",
+      "id": "13",
+      "quantityPeople": 3500,
+      "address": "82 Điện Biên Phủ, Bình Thạnh, TP.HCM",
+      "workingTime": "T2 - CN",
+      "website": "https://trungnguyen.com.vn",
+      "image": "https://trungnguyenlegend.com/wp-content/uploads/2023/06/hinhchu2.jpg"
+    },
+    {
+      "companyName": "Công ty Cổ phần PNJ",
+      "phone": "0972222222",
+      "email": "contact@pnj.com",
+      "password": "pnjgold",
+      "token": "PQR654LMN123",
+      "id": "14",
+      "quantityPeople": 4500,
+      "address": "170E Phan Đăng Lưu, Quận Phú Nhuận, TP.HCM",
+      "workingTime": "T2 - T6",
+      "website": "https://pnj.com.vn",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwfsyfwaD6fCOqLaqAKklaSY2-Z83qfE9v4A&s"
+    },
+    {
+      "companyName": "Tập đoàn Thiên Long",
+      "phone": "0965555555",
+      "email": "contact@thienlong.com",
+      "password": "thienlongpass",
+      "token": "STU321PQR987",
+      "id": "15",
+      "quantityPeople": 3000,
+      "address": "16 Đặng Văn Bi, Quận Thủ Đức, TP.HCM",
+      "workingTime": "T2 - T7",
+      "website": "https://thienlonggroup.com",
+      "image": "https://cafefcdn.com/203337114487263232/2024/4/28/tap-doan-thien-long-tlg-bao-lai-di-lui-trong-quy-dau-nam-2024-antt-1714225931-1714283200457-17142832008381853812192.png"
+    },
+    {
+      "companyName": "Công ty Cổ phần Gỗ An Cường",
+      "phone": "0950000000",
+      "email": "contact@ancuong.com",
+      "password": "ancuongwood",
+      "token": "UVW789XYZ456",
+      "id": "16",
+      "quantityPeople": 2500,
+      "address": "327 Xa lộ Hà Nội, Quận 9, TP.HCM",
+      "workingTime": "T2 - T6",
+      "website": "https://ancuong.com",
+      "image": "https://ancuong.com/pictures/catalog/about/description/vie/1.jpg"
+    },
+    {
+      "companyName": "Công ty Cổ phần Bách Hóa Xanh",
+      "phone": "0941234567",
+      "email": "contact@bachhoaxanh.com",
+      "password": "bhx789",
+      "token": "QWE456RTY789",
+      "id": "17",
+      "quantityPeople": 10000,
+      "address": "45 Nguyễn Văn Quá, Quận 12, TP.HCM",
+      "workingTime": "T2 - CN",
+      "website": "https://bachhoaxanh.com",
+      "image": "https://tttctt.1cdn.vn/2024/04/09/bhx.png"
+    },
+    {
+      "companyName": "Tập đoàn Novaland",
+      "phone": "0934567890",
+      "email": "contact@novaland.com",
+      "password": "nova123",
+      "token": "ASD987FGH654",
+      "id": "18",
+      "quantityPeople": 7000,
+      "address": "65 Nguyễn Du, Quận 1, TP.HCM",
+      "workingTime": "T2 - T7",
+      "website": "https://novaland.com.vn",
+      "image": "https://vinhomecitys.com/wp-content/uploads/2021/01/ta-p-doa-n-ba-t-do-ng-sa-n-novaland-kie-n-ta-o-gia-tri-so-ng-to-t-de-p.jpg"
+    },
+    {
+      "companyName": "Công ty Cổ phần Điện Quang",
+      "phone": "0929999999",
+      "email": "contact@dienquang.com",
+      "password": "light789",
+      "token": "ZXC654VBN321",
+      "id": "19",
+      "quantityPeople": 3200,
+      "address": "72 Đinh Bộ Lĩnh, Bình Thạnh, TP.HCM",
+      "workingTime": "T2 - T6",
+      "website": "https://dienquang.com",
+      "image": "https://thoibaotaichinhvietnam.vn/stores/news_dataimages/2024/102024/04/12/in_article/dqc-120241004125925.jpg?rt=20241004125928"
+    },
+    {
+      "companyName": "Tập đoàn Tân Hiệp Phát",
+      "phone": "0918888888",
+      "email": "contact@thp.com",
+      "password": "thp456",
+      "token": "MNB123LKJ456",
+      "id": "20",
+      "quantityPeople": 6500,
+      "address": "219 Đại Lộ Bình Dương, Thủ Dầu Một, Bình Dương",
+      "workingTime": "T2 - CN",
+      "website": "https://thp.com.vn",
+      "image": "https://cdn.dnse.com.vn/dnse-news/2023/04/Tien-si-Tran-Qui-Thanh-2.png"
+    }
+  ],
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội"
+    },
+    {
+      "key": 2,
+      "value": "Hồ Chí Minh"
+    },
+    {
+      "key": 3,
+      "value": "Đà Nẵng"
+    },
+    {
+      "key": 4,
+      "value": "Hải Phòng"
+    },
+    {
+      "key": 5,
+      "value": "Cần Thơ"
+    },
+    {
+      "key": 6,
+      "value": "Nha Trang"
+    },
+    {
+      "key": 7,
+      "value": "Vũng Tàu"
+    },
+    {
+      "key": 8,
+      "value": "Huế"
+    },
+    {
+      "key": 9,
+      "value": "Biên Hòa"
+    },
+    {
+      "key": 10,
+      "value": "Buôn Ma Thuột"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "HTML"
+    },
+    {
+      "key": 2,
+      "value": "CSS"
+    },
+    {
+      "key": 3,
+      "value": "JavaScript"
+    },
+    {
+      "key": 4,
+      "value": "Database"
+    },
+    {
+      "key": 5,
+      "value": "JSON"
+    },
+    {
+      "key": 6,
+      "value": "PHP"
+    },
+    {
+      "key": 7,
+      "value": "Python"
+    },
+    {
+      "key": 8,
+      "value": "Java"
+    },
+    {
+      "key": 9,
+      "value": "C++"
+    },
+    {
+      "key": 10,
+      "value": "C#"
+    },
+    {
+      "key": 11,
+      "value": "Ruby"
+    },
+    {
+      "key": 12,
+      "value": "Swift"
+    },
+    {
+      "key": 13,
+      "value": "Kotlin"
+    },
+    {
+      "key": 14,
+      "value": "TypeScript"
+    },
+    {
+      "key": 15,
+      "value": "Go"
+    },
+    {
+      "key": 16,
+      "value": "Rust"
+    },
+    {
+      "key": 17,
+      "value": "Perl"
+    },
+    {
+      "key": 18,
+      "value": "Scala"
+    },
+    {
+      "key": 19,
+      "value": "R"
+    },
+    {
+      "key": 20,
+      "value": "Dart"
+    }
+  ]
+}
